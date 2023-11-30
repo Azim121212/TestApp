@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="welcome">Welcome</string>
+    <string name="hello">hello</string>
+    <string name="name">name</string>
+    <string name="password">password</string>
+    <string name="back">BACK</string>
+</resources>
